@@ -12,4 +12,9 @@
     <string name="disconnected">Disconnected</string>
     <string name="disconnected_or_unable_to_connect_to_device">Disconnected or unable to connect to %1$s.</string>
     <string name="ok">OK</string>
+    <string name="eco">ECO</string>
+    <string name="standard">STANDARD</string>
+    <string name="turbo">TURBO</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
 </resources>
